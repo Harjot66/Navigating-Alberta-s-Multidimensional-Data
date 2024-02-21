@@ -1,4 +1,4 @@
-# Navigating-Alberta-s-Multidimensional-Data
+# Navigating Alberta's Multidimensional Data
 
 ## **Introduction**
 
